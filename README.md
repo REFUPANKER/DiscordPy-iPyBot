@@ -7,7 +7,7 @@ python -m pip install discord.py
 ```
 
 ## Critical Info about commands :
-1- Bot Intent required all intents in program 
+1- Bot Intent requires all intents in program 
 ```python
 botIntent=discord.Intents.all()
 Bot=commands.Bot(intents=botIntent,command_prefix="py ",help_command=None)
