@@ -6,7 +6,7 @@ import datetime
 import discord.message
 
 def BotLog(msg):
-    print("[",datetime.datetime.now(),"]",msg)
+    print("[",datetime.datetime.now().strftime("%H:%M:%S"),"]",msg)
 
 BotLog("App Started")
 botIntent=discord.Intents.all()
