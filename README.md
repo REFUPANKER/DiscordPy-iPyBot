@@ -1,4 +1,4 @@
-# DiscordPy - iPyBot
+# DiscordPy - iPyBot [Open Source Discord Bot]
 iPyBot - Bot for Discord 
 ### installation
 [DiscordPy](https://discordpy.readthedocs.io/en/stable/)
