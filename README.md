@@ -22,7 +22,7 @@ async def on_message(msg : Message):
         if(msg.content.startswith(Bot.command_prefix)):
             await Bot.process_commands(msg)
 ```
-4- File for Bot credential and Room IDs 
+4- File for Bot credential and Room IDs and more
 
 
 <img width="468" height="168" align="left" src="https://user-images.githubusercontent.com/68808212/188504884-543fd8cd-9679-402e-929c-66acc4eb37e2.png"/>
