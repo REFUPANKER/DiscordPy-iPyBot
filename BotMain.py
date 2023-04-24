@@ -1,4 +1,3 @@
-from email.message import Message
 import BotCredential as Credential
 import discord
 from discord.ext import commands
